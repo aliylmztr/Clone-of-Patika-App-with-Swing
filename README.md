@@ -1,13 +1,9 @@
 # Clone-of-Patika-App-with-Swing
-Java102 - Clone of Patika App with Swing
+Designing a Patika Clone app using Java102, Swing, JDBC and SQL technologies.
 
 ![image](https://github.com/aliylmztr/SQL-All_Projects/assets/123991935/cd85cd84-da7f-4768-a998-29e1530592ee)
 
 <a href="https://www.patika.dev/tr">patika.dev </a>
-
-----------------------------------------------
-
-Designing a Patika Clone app using Java102, Swing, JDBC and SQL technologies.
 
 ----------------------------------------------
 
