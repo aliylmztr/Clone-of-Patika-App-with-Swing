@@ -21,9 +21,9 @@ Eğitmen Paneli
 
 - Eğitmenler içerik ekleyip kendilerine ait olan içerikleri düzenleyip, silebilirler ve listeleyebilirler.
 
-İçeriklerin özellikleri:
-
 ----------------------------------------------
+
+İçeriklerin özellikleri:
 
 - İçerik Başlığı
 
